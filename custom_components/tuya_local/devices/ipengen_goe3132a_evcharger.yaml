@@ -280,11 +280,11 @@ entities:
           - dps_val: "2"
             value: plugged_in
           - dps_val: "3"
-            value: unknown_3
-          - dps_val: "4"
             value: charging
+          - dps_val: "4"
+            value: complete
           - dps_val: "5"
-            value: charged
+            value: delayed
           - dps_val: "6"
             value: scheduled
           - dps_val: "7"
